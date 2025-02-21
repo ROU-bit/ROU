@@ -1,0 +1,14 @@
+D:\VC\code\Lesson\homework1\bin\Debug\net8.0\homework1.exe
+D:\VC\code\Lesson\homework1\bin\Debug\net8.0\homework1.deps.json
+D:\VC\code\Lesson\homework1\bin\Debug\net8.0\homework1.runtimeconfig.json
+D:\VC\code\Lesson\homework1\bin\Debug\net8.0\homework1.dll
+D:\VC\code\Lesson\homework1\bin\Debug\net8.0\homework1.pdb
+D:\VC\code\Lesson\homework1\obj\Debug\net8.0\homework1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\code\Lesson\homework1\obj\Debug\net8.0\homework1.AssemblyInfoInputs.cache
+D:\VC\code\Lesson\homework1\obj\Debug\net8.0\homework1.AssemblyInfo.cs
+D:\VC\code\Lesson\homework1\obj\Debug\net8.0\homework1.csproj.CoreCompileInputs.cache
+D:\VC\code\Lesson\homework1\obj\Debug\net8.0\homework1.dll
+D:\VC\code\Lesson\homework1\obj\Debug\net8.0\refint\homework1.dll
+D:\VC\code\Lesson\homework1\obj\Debug\net8.0\homework1.pdb
+D:\VC\code\Lesson\homework1\obj\Debug\net8.0\homework1.genruntimeconfig.cache
+D:\VC\code\Lesson\homework1\obj\Debug\net8.0\ref\homework1.dll

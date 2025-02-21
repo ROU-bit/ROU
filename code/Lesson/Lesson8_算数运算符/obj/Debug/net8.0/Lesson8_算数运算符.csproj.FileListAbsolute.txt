@@ -1,0 +1,14 @@
+D:\VC\code\Lesson\Lesson8_算数运算符\bin\Debug\net8.0\Lesson8_算数运算符.exe
+D:\VC\code\Lesson\Lesson8_算数运算符\bin\Debug\net8.0\Lesson8_算数运算符.deps.json
+D:\VC\code\Lesson\Lesson8_算数运算符\bin\Debug\net8.0\Lesson8_算数运算符.runtimeconfig.json
+D:\VC\code\Lesson\Lesson8_算数运算符\bin\Debug\net8.0\Lesson8_算数运算符.dll
+D:\VC\code\Lesson\Lesson8_算数运算符\bin\Debug\net8.0\Lesson8_算数运算符.pdb
+D:\VC\code\Lesson\Lesson8_算数运算符\obj\Debug\net8.0\Lesson8_算数运算符.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\code\Lesson\Lesson8_算数运算符\obj\Debug\net8.0\Lesson8_算数运算符.AssemblyInfoInputs.cache
+D:\VC\code\Lesson\Lesson8_算数运算符\obj\Debug\net8.0\Lesson8_算数运算符.AssemblyInfo.cs
+D:\VC\code\Lesson\Lesson8_算数运算符\obj\Debug\net8.0\Lesson8_算数运算符.csproj.CoreCompileInputs.cache
+D:\VC\code\Lesson\Lesson8_算数运算符\obj\Debug\net8.0\Lesson8_算数运算符.dll
+D:\VC\code\Lesson\Lesson8_算数运算符\obj\Debug\net8.0\refint\Lesson8_算数运算符.dll
+D:\VC\code\Lesson\Lesson8_算数运算符\obj\Debug\net8.0\Lesson8_算数运算符.pdb
+D:\VC\code\Lesson\Lesson8_算数运算符\obj\Debug\net8.0\Lesson8_算数运算符.genruntimeconfig.cache
+D:\VC\code\Lesson\Lesson8_算数运算符\obj\Debug\net8.0\ref\Lesson8_算数运算符.dll

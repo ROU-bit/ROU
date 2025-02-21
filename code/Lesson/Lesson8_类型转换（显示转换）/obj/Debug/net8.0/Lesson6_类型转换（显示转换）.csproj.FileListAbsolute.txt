@@ -1,0 +1,14 @@
+D:\VC\code\Lesson\Lesson8_类型转换（显示转换）\bin\Debug\net8.0\Lesson6_类型转换（显示转换）.exe
+D:\VC\code\Lesson\Lesson8_类型转换（显示转换）\bin\Debug\net8.0\Lesson6_类型转换（显示转换）.deps.json
+D:\VC\code\Lesson\Lesson8_类型转换（显示转换）\bin\Debug\net8.0\Lesson6_类型转换（显示转换）.runtimeconfig.json
+D:\VC\code\Lesson\Lesson8_类型转换（显示转换）\bin\Debug\net8.0\Lesson6_类型转换（显示转换）.dll
+D:\VC\code\Lesson\Lesson8_类型转换（显示转换）\bin\Debug\net8.0\Lesson6_类型转换（显示转换）.pdb
+D:\VC\code\Lesson\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\Lesson6_类型转换（显示转换）.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\code\Lesson\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\Lesson6_类型转换（显示转换）.AssemblyInfoInputs.cache
+D:\VC\code\Lesson\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\Lesson6_类型转换（显示转换）.AssemblyInfo.cs
+D:\VC\code\Lesson\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\Lesson6_类型转换（显示转换）.csproj.CoreCompileInputs.cache
+D:\VC\code\Lesson\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\Lesson6_类型转换（显示转换）.dll
+D:\VC\code\Lesson\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\refint\Lesson6_类型转换（显示转换）.dll
+D:\VC\code\Lesson\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\Lesson6_类型转换（显示转换）.pdb
+D:\VC\code\Lesson\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\Lesson6_类型转换（显示转换）.genruntimeconfig.cache
+D:\VC\code\Lesson\Lesson8_类型转换（显示转换）\obj\Debug\net8.0\ref\Lesson6_类型转换（显示转换）.dll
