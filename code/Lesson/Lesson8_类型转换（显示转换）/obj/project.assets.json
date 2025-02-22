@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VC\\gitsub\\code\\Lesson\\Lesson8_类型转换（显示转换）\\Lesson6_类型转换（显示转换）.csproj",
+      "projectUniqueName": "D:\\VC\\gitunity\\code\\Lesson\\Lesson8_类型转换（显示转换）\\Lesson6_类型转换（显示转换）.csproj",
       "projectName": "Lesson6_类型转换（显示转换）",
-      "projectPath": "D:\\VC\\gitsub\\code\\Lesson\\Lesson8_类型转换（显示转换）\\Lesson6_类型转换（显示转换）.csproj",
+      "projectPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson8_类型转换（显示转换）\\Lesson6_类型转换（显示转换）.csproj",
       "packagesPath": "C:\\Users\\86183\\.nuget\\packages\\",
-      "outputPath": "D:\\VC\\gitsub\\code\\Lesson\\Lesson8_类型转换（显示转换）\\obj\\",
+      "outputPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson8_类型转换（显示转换）\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VC\\IDE\\NuGetPackages"

@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VC\\gitsub\\code\\Lesson\\Lesson1\\Lesson1_输入输出.csproj",
+      "projectUniqueName": "D:\\VC\\gitunity\\code\\Lesson\\Lesson1\\Lesson1_输入输出.csproj",
       "projectName": "Lesson1_输入输出",
-      "projectPath": "D:\\VC\\gitsub\\code\\Lesson\\Lesson1\\Lesson1_输入输出.csproj",
+      "projectPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson1\\Lesson1_输入输出.csproj",
       "packagesPath": "C:\\Users\\86183\\.nuget\\packages\\",
-      "outputPath": "D:\\VC\\gitsub\\code\\Lesson\\Lesson1\\obj\\",
+      "outputPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VC\\IDE\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\VC\\gitsub\\code\\Lesson\\homework1\\homework1.csproj": {
-              "projectPath": "D:\\VC\\gitsub\\code\\Lesson\\homework1\\homework1.csproj"
+            "D:\\VC\\gitunity\\code\\Lesson\\homework1\\homework1.csproj": {
+              "projectPath": "D:\\VC\\gitunity\\code\\Lesson\\homework1\\homework1.csproj"
             }
           }
         }

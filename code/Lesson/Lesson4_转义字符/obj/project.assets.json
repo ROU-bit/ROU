@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VC\\gitsub\\code\\Lesson\\Lesson4_转义字符\\Lesson4_转义字符.csproj",
+      "projectUniqueName": "D:\\VC\\gitunity\\code\\Lesson\\Lesson4_转义字符\\Lesson4_转义字符.csproj",
       "projectName": "Lesson4_转义字符",
-      "projectPath": "D:\\VC\\gitsub\\code\\Lesson\\Lesson4_转义字符\\Lesson4_转义字符.csproj",
+      "projectPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson4_转义字符\\Lesson4_转义字符.csproj",
       "packagesPath": "C:\\Users\\86183\\.nuget\\packages\\",
-      "outputPath": "D:\\VC\\gitsub\\code\\Lesson\\Lesson4_转义字符\\obj\\",
+      "outputPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson4_转义字符\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VC\\IDE\\NuGetPackages"

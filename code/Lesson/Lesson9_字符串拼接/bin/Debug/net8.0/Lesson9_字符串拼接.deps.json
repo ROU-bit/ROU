@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson9_字符串拼接/1.0.0": {
+        "runtime": {
+          "Lesson9_字符串拼接.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson9_字符串拼接/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

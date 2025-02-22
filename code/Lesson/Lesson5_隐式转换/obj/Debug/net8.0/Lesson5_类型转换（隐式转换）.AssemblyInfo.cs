@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson5_类型转换（隐式转换）")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b585b28a6840c1bfcc46e4b41ae6de220d76bab5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson5_类型转换（隐式转换）")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson5_类型转换（隐式转换）")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

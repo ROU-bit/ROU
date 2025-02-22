@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VC\\gitsub\\code\\Lesson\\Lesson8_算数运算符\\Lesson8_算数运算符.csproj": {}
+    "D:\\VC\\gitunity\\code\\Lesson\\Lesson8_算数运算符\\Lesson8_算数运算符.csproj": {}
   },
   "projects": {
-    "D:\\VC\\gitsub\\code\\Lesson\\Lesson8_算数运算符\\Lesson8_算数运算符.csproj": {
+    "D:\\VC\\gitunity\\code\\Lesson\\Lesson8_算数运算符\\Lesson8_算数运算符.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VC\\gitsub\\code\\Lesson\\Lesson8_算数运算符\\Lesson8_算数运算符.csproj",
+        "projectUniqueName": "D:\\VC\\gitunity\\code\\Lesson\\Lesson8_算数运算符\\Lesson8_算数运算符.csproj",
         "projectName": "Lesson8_算数运算符",
-        "projectPath": "D:\\VC\\gitsub\\code\\Lesson\\Lesson8_算数运算符\\Lesson8_算数运算符.csproj",
+        "projectPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson8_算数运算符\\Lesson8_算数运算符.csproj",
         "packagesPath": "C:\\Users\\86183\\.nuget\\packages\\",
-        "outputPath": "D:\\VC\\gitsub\\code\\Lesson\\Lesson8_算数运算符\\obj\\",
+        "outputPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson8_算数运算符\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VC\\IDE\\NuGetPackages"
