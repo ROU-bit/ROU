@@ -1,0 +1,15 @@
+D:\VC\gitunity\code\Lesson\Lesson16_循环语句while\bin\Debug\net8.0\Lesson16_循环语句while.exe
+D:\VC\gitunity\code\Lesson\Lesson16_循环语句while\bin\Debug\net8.0\Lesson16_循环语句while.deps.json
+D:\VC\gitunity\code\Lesson\Lesson16_循环语句while\bin\Debug\net8.0\Lesson16_循环语句while.runtimeconfig.json
+D:\VC\gitunity\code\Lesson\Lesson16_循环语句while\bin\Debug\net8.0\Lesson16_循环语句while.dll
+D:\VC\gitunity\code\Lesson\Lesson16_循环语句while\bin\Debug\net8.0\Lesson16_循环语句while.pdb
+D:\VC\gitunity\code\Lesson\Lesson16_循环语句while\obj\Debug\net8.0\Lesson16_循环语句while.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\code\Lesson\Lesson16_循环语句while\obj\Debug\net8.0\Lesson16_循环语句while.AssemblyInfoInputs.cache
+D:\VC\gitunity\code\Lesson\Lesson16_循环语句while\obj\Debug\net8.0\Lesson16_循环语句while.AssemblyInfo.cs
+D:\VC\gitunity\code\Lesson\Lesson16_循环语句while\obj\Debug\net8.0\Lesson16_循环语句while.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\code\Lesson\Lesson16_循环语句while\obj\Debug\net8.0\Lesson16_循环语句while.sourcelink.json
+D:\VC\gitunity\code\Lesson\Lesson16_循环语句while\obj\Debug\net8.0\Lesson16_循环语句while.dll
+D:\VC\gitunity\code\Lesson\Lesson16_循环语句while\obj\Debug\net8.0\refint\Lesson16_循环语句while.dll
+D:\VC\gitunity\code\Lesson\Lesson16_循环语句while\obj\Debug\net8.0\Lesson16_循环语句while.pdb
+D:\VC\gitunity\code\Lesson\Lesson16_循环语句while\obj\Debug\net8.0\Lesson16_循环语句while.genruntimeconfig.cache
+D:\VC\gitunity\code\Lesson\Lesson16_循环语句while\obj\Debug\net8.0\ref\Lesson16_循环语句while.dll

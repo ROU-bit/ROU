@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson7_异常捕获")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b585b28a6840c1bfcc46e4b41ae6de220d76bab5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+976f283f59c210534ea1446836fea6bafb1313ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson7_异常捕获")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson7_异常捕获")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
