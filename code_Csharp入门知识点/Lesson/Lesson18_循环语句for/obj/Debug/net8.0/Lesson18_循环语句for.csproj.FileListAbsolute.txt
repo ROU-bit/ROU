@@ -1,0 +1,15 @@
+D:\VC\gitunity\code\Lesson\Lesson18_循环语句for\bin\Debug\net8.0\Lesson18_循环语句for.exe
+D:\VC\gitunity\code\Lesson\Lesson18_循环语句for\bin\Debug\net8.0\Lesson18_循环语句for.deps.json
+D:\VC\gitunity\code\Lesson\Lesson18_循环语句for\bin\Debug\net8.0\Lesson18_循环语句for.runtimeconfig.json
+D:\VC\gitunity\code\Lesson\Lesson18_循环语句for\bin\Debug\net8.0\Lesson18_循环语句for.dll
+D:\VC\gitunity\code\Lesson\Lesson18_循环语句for\bin\Debug\net8.0\Lesson18_循环语句for.pdb
+D:\VC\gitunity\code\Lesson\Lesson18_循环语句for\obj\Debug\net8.0\Lesson18_循环语句for.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\code\Lesson\Lesson18_循环语句for\obj\Debug\net8.0\Lesson18_循环语句for.AssemblyInfoInputs.cache
+D:\VC\gitunity\code\Lesson\Lesson18_循环语句for\obj\Debug\net8.0\Lesson18_循环语句for.AssemblyInfo.cs
+D:\VC\gitunity\code\Lesson\Lesson18_循环语句for\obj\Debug\net8.0\Lesson18_循环语句for.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\code\Lesson\Lesson18_循环语句for\obj\Debug\net8.0\Lesson18_循环语句for.sourcelink.json
+D:\VC\gitunity\code\Lesson\Lesson18_循环语句for\obj\Debug\net8.0\Lesson18_循环语句for.dll
+D:\VC\gitunity\code\Lesson\Lesson18_循环语句for\obj\Debug\net8.0\refint\Lesson18_循环语句for.dll
+D:\VC\gitunity\code\Lesson\Lesson18_循环语句for\obj\Debug\net8.0\Lesson18_循环语句for.pdb
+D:\VC\gitunity\code\Lesson\Lesson18_循环语句for\obj\Debug\net8.0\Lesson18_循环语句for.genruntimeconfig.cache
+D:\VC\gitunity\code\Lesson\Lesson18_循环语句for\obj\Debug\net8.0\ref\Lesson18_循环语句for.dll

@@ -1,0 +1,15 @@
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必备知识点_控制台相关\bin\Debug\net8.0\必备知识点_控制台相关.exe
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必备知识点_控制台相关\bin\Debug\net8.0\必备知识点_控制台相关.deps.json
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必备知识点_控制台相关\bin\Debug\net8.0\必备知识点_控制台相关.runtimeconfig.json
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必备知识点_控制台相关\bin\Debug\net8.0\必备知识点_控制台相关.dll
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必备知识点_控制台相关\bin\Debug\net8.0\必备知识点_控制台相关.pdb
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必备知识点_控制台相关\obj\Debug\net8.0\必备知识点_控制台相关.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必备知识点_控制台相关\obj\Debug\net8.0\必备知识点_控制台相关.AssemblyInfoInputs.cache
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必备知识点_控制台相关\obj\Debug\net8.0\必备知识点_控制台相关.AssemblyInfo.cs
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必备知识点_控制台相关\obj\Debug\net8.0\必备知识点_控制台相关.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必备知识点_控制台相关\obj\Debug\net8.0\必备知识点_控制台相关.sourcelink.json
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必备知识点_控制台相关\obj\Debug\net8.0\必备知识点_控制台相关.dll
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必备知识点_控制台相关\obj\Debug\net8.0\refint\必备知识点_控制台相关.dll
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必备知识点_控制台相关\obj\Debug\net8.0\必备知识点_控制台相关.pdb
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必备知识点_控制台相关\obj\Debug\net8.0\必备知识点_控制台相关.genruntimeconfig.cache
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必备知识点_控制台相关\obj\Debug\net8.0\ref\必备知识点_控制台相关.dll

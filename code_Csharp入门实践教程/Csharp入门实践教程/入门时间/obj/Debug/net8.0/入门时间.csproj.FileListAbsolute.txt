@@ -1,0 +1,15 @@
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\入门时间\bin\Debug\net8.0\入门时间.exe
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\入门时间\bin\Debug\net8.0\入门时间.deps.json
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\入门时间\bin\Debug\net8.0\入门时间.runtimeconfig.json
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\入门时间\bin\Debug\net8.0\入门时间.dll
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\入门时间\bin\Debug\net8.0\入门时间.pdb
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\入门时间\obj\Debug\net8.0\入门时间.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\入门时间\obj\Debug\net8.0\入门时间.AssemblyInfoInputs.cache
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\入门时间\obj\Debug\net8.0\入门时间.AssemblyInfo.cs
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\入门时间\obj\Debug\net8.0\入门时间.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\入门时间\obj\Debug\net8.0\入门时间.sourcelink.json
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\入门时间\obj\Debug\net8.0\入门时间.dll
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\入门时间\obj\Debug\net8.0\refint\入门时间.dll
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\入门时间\obj\Debug\net8.0\入门时间.pdb
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\入门时间\obj\Debug\net8.0\入门时间.genruntimeconfig.cache
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\入门时间\obj\Debug\net8.0\ref\入门时间.dll

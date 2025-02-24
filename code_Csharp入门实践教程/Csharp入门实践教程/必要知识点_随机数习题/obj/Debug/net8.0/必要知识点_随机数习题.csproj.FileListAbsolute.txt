@@ -1,0 +1,15 @@
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必要知识点_随机数习题\bin\Debug\net8.0\必要知识点_随机数习题.exe
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必要知识点_随机数习题\bin\Debug\net8.0\必要知识点_随机数习题.deps.json
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必要知识点_随机数习题\bin\Debug\net8.0\必要知识点_随机数习题.runtimeconfig.json
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必要知识点_随机数习题\bin\Debug\net8.0\必要知识点_随机数习题.dll
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必要知识点_随机数习题\bin\Debug\net8.0\必要知识点_随机数习题.pdb
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必要知识点_随机数习题\obj\Debug\net8.0\必要知识点_随机数习题.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必要知识点_随机数习题\obj\Debug\net8.0\必要知识点_随机数习题.AssemblyInfoInputs.cache
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必要知识点_随机数习题\obj\Debug\net8.0\必要知识点_随机数习题.AssemblyInfo.cs
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必要知识点_随机数习题\obj\Debug\net8.0\必要知识点_随机数习题.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必要知识点_随机数习题\obj\Debug\net8.0\必要知识点_随机数习题.sourcelink.json
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必要知识点_随机数习题\obj\Debug\net8.0\必要知识点_随机数习题.dll
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必要知识点_随机数习题\obj\Debug\net8.0\refint\必要知识点_随机数习题.dll
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必要知识点_随机数习题\obj\Debug\net8.0\必要知识点_随机数习题.pdb
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必要知识点_随机数习题\obj\Debug\net8.0\必要知识点_随机数习题.genruntimeconfig.cache
+D:\VC\gitunity\code_Csharp入门实践教程\Csharp入门实践教程\必要知识点_随机数习题\obj\Debug\net8.0\ref\必要知识点_随机数习题.dll

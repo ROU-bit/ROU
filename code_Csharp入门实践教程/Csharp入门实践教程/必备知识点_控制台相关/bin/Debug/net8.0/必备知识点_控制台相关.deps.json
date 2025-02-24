@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "必备知识点_控制台相关/1.0.0": {
+        "runtime": {
+          "必备知识点_控制台相关.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "必备知识点_控制台相关/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
