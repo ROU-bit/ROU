@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VC\\gitunity\\code\\Lesson\\Lesson9_字符串拼接\\Lesson9_字符串拼接.csproj": {}
+    "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson9_字符串拼接\\Lesson9_字符串拼接.csproj": {}
   },
   "projects": {
-    "D:\\VC\\gitunity\\code\\Lesson\\Lesson9_字符串拼接\\Lesson9_字符串拼接.csproj": {
+    "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson9_字符串拼接\\Lesson9_字符串拼接.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VC\\gitunity\\code\\Lesson\\Lesson9_字符串拼接\\Lesson9_字符串拼接.csproj",
+        "projectUniqueName": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson9_字符串拼接\\Lesson9_字符串拼接.csproj",
         "projectName": "Lesson9_字符串拼接",
-        "projectPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson9_字符串拼接\\Lesson9_字符串拼接.csproj",
+        "projectPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson9_字符串拼接\\Lesson9_字符串拼接.csproj",
         "packagesPath": "C:\\Users\\86183\\.nuget\\packages\\",
-        "outputPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson9_字符串拼接\\obj\\",
+        "outputPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson9_字符串拼接\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VC\\IDE\\NuGetPackages"

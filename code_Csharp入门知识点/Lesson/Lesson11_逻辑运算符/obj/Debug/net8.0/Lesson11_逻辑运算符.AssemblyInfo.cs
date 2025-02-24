@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson11_逻辑运算符")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e50cd362d3d64ca25d931764965d558620f8e81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7fcb71064be9c2522014d4b6b8c5ed41c9db27e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson11_逻辑运算符")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson11_逻辑运算符")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

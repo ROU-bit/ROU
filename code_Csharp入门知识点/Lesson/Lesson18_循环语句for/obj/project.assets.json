@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VC\\gitunity\\code\\Lesson\\Lesson18_循环语句for\\Lesson18_循环语句for.csproj",
+      "projectUniqueName": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson18_循环语句for\\Lesson18_循环语句for.csproj",
       "projectName": "Lesson18_循环语句for",
-      "projectPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson18_循环语句for\\Lesson18_循环语句for.csproj",
+      "projectPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson18_循环语句for\\Lesson18_循环语句for.csproj",
       "packagesPath": "C:\\Users\\86183\\.nuget\\packages\\",
-      "outputPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson18_循环语句for\\obj\\",
+      "outputPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson18_循环语句for\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VC\\IDE\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VC\\gitunity\\code\\Lesson\\Lesson13_三目运算符\\Lesson13_三目运算符.csproj",
+      "projectUniqueName": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson13_三目运算符\\Lesson13_三目运算符.csproj",
       "projectName": "Lesson13_三目运算符",
-      "projectPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson13_三目运算符\\Lesson13_三目运算符.csproj",
+      "projectPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson13_三目运算符\\Lesson13_三目运算符.csproj",
       "packagesPath": "C:\\Users\\86183\\.nuget\\packages\\",
-      "outputPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson13_三目运算符\\obj\\",
+      "outputPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson13_三目运算符\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VC\\IDE\\NuGetPackages"

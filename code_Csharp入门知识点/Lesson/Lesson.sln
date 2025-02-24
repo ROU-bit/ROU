@@ -3,19 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35728.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1_输入输出", "Lesson1\Lesson1_输入输出.csproj", "{A46F5B6D-38EC-4A46-AA53-9A09D4C2453A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework1", "homework1\homework1.csproj", "{23D89195-7E0E-45FC-86EA-7361BB95BB99}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2_变量", "Lesson_变量\Lesson2_变量.csproj", "{AC34419C-899D-4475-BDF3-1F405B4F11B9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3_常量", "Lesson3_常量\Lesson3_常量.csproj", "{F73CDFF1-F658-409A-AECF-27E197C95F90}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4_转义字符", "Lesson4_转义字符\Lesson4_转义字符.csproj", "{DD989F2A-8778-4339-BDEC-5485F43643D9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5_类型转换（隐式转换）", "Lesson5_隐式转换\Lesson5_类型转换（隐式转换）.csproj", "{257E84E3-1F9C-4BF9-BBEA-1AD163FF1F69}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6_类型转换（显示转换）", "Lesson8_类型转换（显示转换）\Lesson6_类型转换（显示转换）.csproj", "{9113FDA4-B183-48F2-B891-BD6F76C211C2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7_异常捕获", "Lesson7_异常捕获\Lesson7_异常捕获.csproj", "{0F887613-9338-45A1-AD98-3F9F34EDA825}"
 EndProject
@@ -41,24 +33,24 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson17_循环语句do whi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson18_循环语句for", "Lesson18_循环语句for\Lesson18_循环语句for.csproj", "{887EDCAB-E6F0-461C-8C9E-8C6F11CB1402}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1_输入输出", "Lesson1_输入输出\Lesson1_输入输出.csproj", "{964EC47E-8C64-46B0-8585-F1A94AC10ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2_变量", "Lesson2_变量\Lesson2_变量.csproj", "{93D1F360-B70E-41A6-8245-C6F8D2E25847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5_类型转换（隐式转换）", "Lesson5_类型转换（隐式转换）\Lesson5_类型转换（隐式转换）.csproj", "{76F35913-8B70-45F8-A156-F3DB46D3F612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6_类型转换（显示转换）", "Lesson6_类型转换（显示转换）\Lesson6_类型转换（显示转换）.csproj", "{F12BAF86-5EB3-4853-82FC-32336452E1A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A46F5B6D-38EC-4A46-AA53-9A09D4C2453A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A46F5B6D-38EC-4A46-AA53-9A09D4C2453A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A46F5B6D-38EC-4A46-AA53-9A09D4C2453A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A46F5B6D-38EC-4A46-AA53-9A09D4C2453A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{23D89195-7E0E-45FC-86EA-7361BB95BB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{23D89195-7E0E-45FC-86EA-7361BB95BB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23D89195-7E0E-45FC-86EA-7361BB95BB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23D89195-7E0E-45FC-86EA-7361BB95BB99}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AC34419C-899D-4475-BDF3-1F405B4F11B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC34419C-899D-4475-BDF3-1F405B4F11B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC34419C-899D-4475-BDF3-1F405B4F11B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC34419C-899D-4475-BDF3-1F405B4F11B9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F73CDFF1-F658-409A-AECF-27E197C95F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F73CDFF1-F658-409A-AECF-27E197C95F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F73CDFF1-F658-409A-AECF-27E197C95F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -67,14 +59,6 @@ Global
 		{DD989F2A-8778-4339-BDEC-5485F43643D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD989F2A-8778-4339-BDEC-5485F43643D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD989F2A-8778-4339-BDEC-5485F43643D9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{257E84E3-1F9C-4BF9-BBEA-1AD163FF1F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{257E84E3-1F9C-4BF9-BBEA-1AD163FF1F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{257E84E3-1F9C-4BF9-BBEA-1AD163FF1F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{257E84E3-1F9C-4BF9-BBEA-1AD163FF1F69}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9113FDA4-B183-48F2-B891-BD6F76C211C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9113FDA4-B183-48F2-B891-BD6F76C211C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9113FDA4-B183-48F2-B891-BD6F76C211C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9113FDA4-B183-48F2-B891-BD6F76C211C2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0F887613-9338-45A1-AD98-3F9F34EDA825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0F887613-9338-45A1-AD98-3F9F34EDA825}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F887613-9338-45A1-AD98-3F9F34EDA825}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -123,6 +107,22 @@ Global
 		{887EDCAB-E6F0-461C-8C9E-8C6F11CB1402}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{887EDCAB-E6F0-461C-8C9E-8C6F11CB1402}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{887EDCAB-E6F0-461C-8C9E-8C6F11CB1402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964EC47E-8C64-46B0-8585-F1A94AC10ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964EC47E-8C64-46B0-8585-F1A94AC10ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964EC47E-8C64-46B0-8585-F1A94AC10ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964EC47E-8C64-46B0-8585-F1A94AC10ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D1F360-B70E-41A6-8245-C6F8D2E25847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D1F360-B70E-41A6-8245-C6F8D2E25847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D1F360-B70E-41A6-8245-C6F8D2E25847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D1F360-B70E-41A6-8245-C6F8D2E25847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F35913-8B70-45F8-A156-F3DB46D3F612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F35913-8B70-45F8-A156-F3DB46D3F612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F35913-8B70-45F8-A156-F3DB46D3F612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F35913-8B70-45F8-A156-F3DB46D3F612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F12BAF86-5EB3-4853-82FC-32336452E1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12BAF86-5EB3-4853-82FC-32336452E1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12BAF86-5EB3-4853-82FC-32336452E1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12BAF86-5EB3-4853-82FC-32336452E1A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

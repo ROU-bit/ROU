@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VC\\gitunity\\code\\Lesson\\homework1\\homework1.csproj": {}
+    "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\homework1\\homework1.csproj": {}
   },
   "projects": {
-    "D:\\VC\\gitunity\\code\\Lesson\\homework1\\homework1.csproj": {
+    "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\homework1\\homework1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VC\\gitunity\\code\\Lesson\\homework1\\homework1.csproj",
+        "projectUniqueName": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\homework1\\homework1.csproj",
         "projectName": "homework1",
-        "projectPath": "D:\\VC\\gitunity\\code\\Lesson\\homework1\\homework1.csproj",
+        "projectPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\homework1\\homework1.csproj",
         "packagesPath": "C:\\Users\\86183\\.nuget\\packages\\",
-        "outputPath": "D:\\VC\\gitunity\\code\\Lesson\\homework1\\obj\\",
+        "outputPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\homework1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VC\\IDE\\NuGetPackages"

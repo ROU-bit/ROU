@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VC\\gitunity\\code\\Lesson\\Lesson14_条件分支语句if\\Lesson14_条件分支语句if.csproj",
+      "projectUniqueName": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson14_条件分支语句if\\Lesson14_条件分支语句if.csproj",
       "projectName": "Lesson14_条件分支语句if",
-      "projectPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson14_条件分支语句if\\Lesson14_条件分支语句if.csproj",
+      "projectPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson14_条件分支语句if\\Lesson14_条件分支语句if.csproj",
       "packagesPath": "C:\\Users\\86183\\.nuget\\packages\\",
-      "outputPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson14_条件分支语句if\\obj\\",
+      "outputPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson14_条件分支语句if\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VC\\IDE\\NuGetPackages"

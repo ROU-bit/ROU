@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VC\\gitunity\\code\\Lesson\\Lesson17_循环语句do while\\Lesson17_循环语句do while.csproj",
+      "projectUniqueName": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson17_循环语句do while\\Lesson17_循环语句do while.csproj",
       "projectName": "Lesson17_循环语句do while",
-      "projectPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson17_循环语句do while\\Lesson17_循环语句do while.csproj",
+      "projectPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson17_循环语句do while\\Lesson17_循环语句do while.csproj",
       "packagesPath": "C:\\Users\\86183\\.nuget\\packages\\",
-      "outputPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson17_循环语句do while\\obj\\",
+      "outputPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson17_循环语句do while\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VC\\IDE\\NuGetPackages"

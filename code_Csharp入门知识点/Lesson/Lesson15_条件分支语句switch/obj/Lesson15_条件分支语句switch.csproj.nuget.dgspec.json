@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VC\\gitunity\\code\\Lesson\\Lesson15_条件分支语句switch\\Lesson15_条件分支语句switch.csproj": {}
+    "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson15_条件分支语句switch\\Lesson15_条件分支语句switch.csproj": {}
   },
   "projects": {
-    "D:\\VC\\gitunity\\code\\Lesson\\Lesson15_条件分支语句switch\\Lesson15_条件分支语句switch.csproj": {
+    "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson15_条件分支语句switch\\Lesson15_条件分支语句switch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VC\\gitunity\\code\\Lesson\\Lesson15_条件分支语句switch\\Lesson15_条件分支语句switch.csproj",
+        "projectUniqueName": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson15_条件分支语句switch\\Lesson15_条件分支语句switch.csproj",
         "projectName": "Lesson15_条件分支语句switch",
-        "projectPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson15_条件分支语句switch\\Lesson15_条件分支语句switch.csproj",
+        "projectPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson15_条件分支语句switch\\Lesson15_条件分支语句switch.csproj",
         "packagesPath": "C:\\Users\\86183\\.nuget\\packages\\",
-        "outputPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson15_条件分支语句switch\\obj\\",
+        "outputPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson15_条件分支语句switch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VC\\IDE\\NuGetPackages"

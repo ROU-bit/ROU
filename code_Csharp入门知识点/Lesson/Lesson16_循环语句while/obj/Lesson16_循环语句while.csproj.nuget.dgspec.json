@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VC\\gitunity\\code\\Lesson\\Lesson16_循环语句while\\Lesson16_循环语句while.csproj": {}
+    "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson16_循环语句while\\Lesson16_循环语句while.csproj": {}
   },
   "projects": {
-    "D:\\VC\\gitunity\\code\\Lesson\\Lesson16_循环语句while\\Lesson16_循环语句while.csproj": {
+    "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson16_循环语句while\\Lesson16_循环语句while.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VC\\gitunity\\code\\Lesson\\Lesson16_循环语句while\\Lesson16_循环语句while.csproj",
+        "projectUniqueName": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson16_循环语句while\\Lesson16_循环语句while.csproj",
         "projectName": "Lesson16_循环语句while",
-        "projectPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson16_循环语句while\\Lesson16_循环语句while.csproj",
+        "projectPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson16_循环语句while\\Lesson16_循环语句while.csproj",
         "packagesPath": "C:\\Users\\86183\\.nuget\\packages\\",
-        "outputPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson16_循环语句while\\obj\\",
+        "outputPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson16_循环语句while\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VC\\IDE\\NuGetPackages"

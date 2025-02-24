@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VC\\gitunity\\code\\Lesson\\Lesson4_转义字符\\Lesson4_转义字符.csproj": {}
+    "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson4_转义字符\\Lesson4_转义字符.csproj": {}
   },
   "projects": {
-    "D:\\VC\\gitunity\\code\\Lesson\\Lesson4_转义字符\\Lesson4_转义字符.csproj": {
+    "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson4_转义字符\\Lesson4_转义字符.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VC\\gitunity\\code\\Lesson\\Lesson4_转义字符\\Lesson4_转义字符.csproj",
+        "projectUniqueName": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson4_转义字符\\Lesson4_转义字符.csproj",
         "projectName": "Lesson4_转义字符",
-        "projectPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson4_转义字符\\Lesson4_转义字符.csproj",
+        "projectPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson4_转义字符\\Lesson4_转义字符.csproj",
         "packagesPath": "C:\\Users\\86183\\.nuget\\packages\\",
-        "outputPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson4_转义字符\\obj\\",
+        "outputPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson4_转义字符\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VC\\IDE\\NuGetPackages"

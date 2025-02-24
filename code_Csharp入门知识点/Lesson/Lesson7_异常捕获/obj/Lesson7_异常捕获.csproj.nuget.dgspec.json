@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VC\\gitunity\\code\\Lesson\\Lesson7_异常捕获\\Lesson7_异常捕获.csproj": {}
+    "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson7_异常捕获\\Lesson7_异常捕获.csproj": {}
   },
   "projects": {
-    "D:\\VC\\gitunity\\code\\Lesson\\Lesson7_异常捕获\\Lesson7_异常捕获.csproj": {
+    "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson7_异常捕获\\Lesson7_异常捕获.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VC\\gitunity\\code\\Lesson\\Lesson7_异常捕获\\Lesson7_异常捕获.csproj",
+        "projectUniqueName": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson7_异常捕获\\Lesson7_异常捕获.csproj",
         "projectName": "Lesson7_异常捕获",
-        "projectPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson7_异常捕获\\Lesson7_异常捕获.csproj",
+        "projectPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson7_异常捕获\\Lesson7_异常捕获.csproj",
         "packagesPath": "C:\\Users\\86183\\.nuget\\packages\\",
-        "outputPath": "D:\\VC\\gitunity\\code\\Lesson\\Lesson7_异常捕获\\obj\\",
+        "outputPath": "D:\\VC\\gitunity\\code_Csharp入门知识点\\Lesson\\Lesson7_异常捕获\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VC\\IDE\\NuGetPackages"
