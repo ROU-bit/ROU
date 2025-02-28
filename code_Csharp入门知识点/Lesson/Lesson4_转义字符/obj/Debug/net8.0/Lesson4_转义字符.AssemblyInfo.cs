@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson4_转义字符")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7fcb71064be9c2522014d4b6b8c5ed41c9db27e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+385907fe2587735b31d2d4d3daee2eb3731e0626")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson4_转义字符")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson4_转义字符")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

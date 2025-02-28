@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>homework1</id>
+    <version>1.0.0</version>
+    <authors>homework1</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="385907fe2587735b31d2d4d3daee2eb3731e0626" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\VC\gitunity\code_Csharp入门知识点\Lesson\homework1_输入输出\bin\Debug\net8.0\homework1.runtimeconfig.json" target="lib\net8.0\homework1.runtimeconfig.json" />
+    <file src="D:\VC\gitunity\code_Csharp入门知识点\Lesson\homework1_输入输出\bin\Debug\net8.0\homework1.dll" target="lib\net8.0\homework1.dll" />
+  </files>
+</package>
