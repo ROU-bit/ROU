@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("入门实践")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e50cd362d3d64ca25d931764965d558620f8e81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64fb273643640afa2ed3bf0d3991c4f5bd37f24d")]
 [assembly: System.Reflection.AssemblyProductAttribute("入门实践")]
 [assembly: System.Reflection.AssemblyTitleAttribute("入门实践")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
