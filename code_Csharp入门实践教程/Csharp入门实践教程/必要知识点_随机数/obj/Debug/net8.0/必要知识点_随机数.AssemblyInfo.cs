@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("必要知识点_随机数")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e50cd362d3d64ca25d931764965d558620f8e81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47372d87be0522f692484f47f779e1febe933e87")]
 [assembly: System.Reflection.AssemblyProductAttribute("必要知识点_随机数")]
 [assembly: System.Reflection.AssemblyTitleAttribute("必要知识点_随机数")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
