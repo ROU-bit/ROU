@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1_枚举", "Lesson1_枚举\Lesson1_枚举.csproj", "{B9C568F7-6EF5-4255-B8AA-A22E47F3DDF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework1_枚举", "Homework1_枚举\Homework1_枚举.csproj", "{AD5C5C91-0F18-49BC-B7E1-D5F6D0D8C482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9C568F7-6EF5-4255-B8AA-A22E47F3DDF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C568F7-6EF5-4255-B8AA-A22E47F3DDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C568F7-6EF5-4255-B8AA-A22E47F3DDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C568F7-6EF5-4255-B8AA-A22E47F3DDF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD5C5C91-0F18-49BC-B7E1-D5F6D0D8C482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5C5C91-0F18-49BC-B7E1-D5F6D0D8C482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5C5C91-0F18-49BC-B7E1-D5F6D0D8C482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5C5C91-0F18-49BC-B7E1-D5F6D0D8C482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
