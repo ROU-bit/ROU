@@ -1,0 +1,15 @@
+D:\VC\gitunity\Csharp基础教学\Lesson2_一维数组\bin\Debug\net8.0\Lesson2_一维数组.exe
+D:\VC\gitunity\Csharp基础教学\Lesson2_一维数组\bin\Debug\net8.0\Lesson2_一维数组.deps.json
+D:\VC\gitunity\Csharp基础教学\Lesson2_一维数组\bin\Debug\net8.0\Lesson2_一维数组.runtimeconfig.json
+D:\VC\gitunity\Csharp基础教学\Lesson2_一维数组\bin\Debug\net8.0\Lesson2_一维数组.dll
+D:\VC\gitunity\Csharp基础教学\Lesson2_一维数组\bin\Debug\net8.0\Lesson2_一维数组.pdb
+D:\VC\gitunity\Csharp基础教学\Lesson2_一维数组\obj\Debug\net8.0\Lesson2_一维数组.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\Csharp基础教学\Lesson2_一维数组\obj\Debug\net8.0\Lesson2_一维数组.AssemblyInfoInputs.cache
+D:\VC\gitunity\Csharp基础教学\Lesson2_一维数组\obj\Debug\net8.0\Lesson2_一维数组.AssemblyInfo.cs
+D:\VC\gitunity\Csharp基础教学\Lesson2_一维数组\obj\Debug\net8.0\Lesson2_一维数组.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\Csharp基础教学\Lesson2_一维数组\obj\Debug\net8.0\Lesson2_一维数组.sourcelink.json
+D:\VC\gitunity\Csharp基础教学\Lesson2_一维数组\obj\Debug\net8.0\Lesson2_一维数组.dll
+D:\VC\gitunity\Csharp基础教学\Lesson2_一维数组\obj\Debug\net8.0\refint\Lesson2_一维数组.dll
+D:\VC\gitunity\Csharp基础教学\Lesson2_一维数组\obj\Debug\net8.0\Lesson2_一维数组.pdb
+D:\VC\gitunity\Csharp基础教学\Lesson2_一维数组\obj\Debug\net8.0\Lesson2_一维数组.genruntimeconfig.cache
+D:\VC\gitunity\Csharp基础教学\Lesson2_一维数组\obj\Debug\net8.0\ref\Lesson2_一维数组.dll

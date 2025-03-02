@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Homework3_二维数组/1.0.0": {
+        "runtime": {
+          "Homework3_二维数组.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework3_二维数组/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

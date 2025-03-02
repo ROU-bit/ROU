@@ -1,0 +1,15 @@
+D:\VC\gitunity\Csharp基础教学\Lesson5_值类型和引用类型\bin\Debug\net8.0\Lesson5_值类型和引用类型.exe
+D:\VC\gitunity\Csharp基础教学\Lesson5_值类型和引用类型\bin\Debug\net8.0\Lesson5_值类型和引用类型.deps.json
+D:\VC\gitunity\Csharp基础教学\Lesson5_值类型和引用类型\bin\Debug\net8.0\Lesson5_值类型和引用类型.runtimeconfig.json
+D:\VC\gitunity\Csharp基础教学\Lesson5_值类型和引用类型\bin\Debug\net8.0\Lesson5_值类型和引用类型.dll
+D:\VC\gitunity\Csharp基础教学\Lesson5_值类型和引用类型\bin\Debug\net8.0\Lesson5_值类型和引用类型.pdb
+D:\VC\gitunity\Csharp基础教学\Lesson5_值类型和引用类型\obj\Debug\net8.0\Lesson5_值类型和引用类型.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\Csharp基础教学\Lesson5_值类型和引用类型\obj\Debug\net8.0\Lesson5_值类型和引用类型.AssemblyInfoInputs.cache
+D:\VC\gitunity\Csharp基础教学\Lesson5_值类型和引用类型\obj\Debug\net8.0\Lesson5_值类型和引用类型.AssemblyInfo.cs
+D:\VC\gitunity\Csharp基础教学\Lesson5_值类型和引用类型\obj\Debug\net8.0\Lesson5_值类型和引用类型.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\Csharp基础教学\Lesson5_值类型和引用类型\obj\Debug\net8.0\Lesson5_值类型和引用类型.sourcelink.json
+D:\VC\gitunity\Csharp基础教学\Lesson5_值类型和引用类型\obj\Debug\net8.0\Lesson5_值类型和引用类型.dll
+D:\VC\gitunity\Csharp基础教学\Lesson5_值类型和引用类型\obj\Debug\net8.0\refint\Lesson5_值类型和引用类型.dll
+D:\VC\gitunity\Csharp基础教学\Lesson5_值类型和引用类型\obj\Debug\net8.0\Lesson5_值类型和引用类型.pdb
+D:\VC\gitunity\Csharp基础教学\Lesson5_值类型和引用类型\obj\Debug\net8.0\Lesson5_值类型和引用类型.genruntimeconfig.cache
+D:\VC\gitunity\Csharp基础教学\Lesson5_值类型和引用类型\obj\Debug\net8.0\ref\Lesson5_值类型和引用类型.dll
