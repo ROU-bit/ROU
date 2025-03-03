@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson11_递归函数/1.0.0": {
+        "runtime": {
+          "Lesson11_递归函数.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson11_递归函数/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

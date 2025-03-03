@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson6_特殊引用类型string")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f37e28d0f87a211b384c838a32bf2aefa092678d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c249f9e88d8f743f22db28ca301df851673b282")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson6_特殊引用类型string")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson6_特殊引用类型string")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

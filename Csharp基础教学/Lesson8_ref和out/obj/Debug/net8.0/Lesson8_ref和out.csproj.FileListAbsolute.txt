@@ -1,0 +1,15 @@
+D:\VC\gitunity\Csharp基础教学\Lesson8_ref和out\bin\Debug\net8.0\Lesson8_ref和out.exe
+D:\VC\gitunity\Csharp基础教学\Lesson8_ref和out\bin\Debug\net8.0\Lesson8_ref和out.deps.json
+D:\VC\gitunity\Csharp基础教学\Lesson8_ref和out\bin\Debug\net8.0\Lesson8_ref和out.runtimeconfig.json
+D:\VC\gitunity\Csharp基础教学\Lesson8_ref和out\bin\Debug\net8.0\Lesson8_ref和out.dll
+D:\VC\gitunity\Csharp基础教学\Lesson8_ref和out\bin\Debug\net8.0\Lesson8_ref和out.pdb
+D:\VC\gitunity\Csharp基础教学\Lesson8_ref和out\obj\Debug\net8.0\Lesson8_ref和out.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\Csharp基础教学\Lesson8_ref和out\obj\Debug\net8.0\Lesson8_ref和out.AssemblyInfoInputs.cache
+D:\VC\gitunity\Csharp基础教学\Lesson8_ref和out\obj\Debug\net8.0\Lesson8_ref和out.AssemblyInfo.cs
+D:\VC\gitunity\Csharp基础教学\Lesson8_ref和out\obj\Debug\net8.0\Lesson8_ref和out.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\Csharp基础教学\Lesson8_ref和out\obj\Debug\net8.0\Lesson8_ref和out.sourcelink.json
+D:\VC\gitunity\Csharp基础教学\Lesson8_ref和out\obj\Debug\net8.0\Lesson8_ref和out.dll
+D:\VC\gitunity\Csharp基础教学\Lesson8_ref和out\obj\Debug\net8.0\refint\Lesson8_ref和out.dll
+D:\VC\gitunity\Csharp基础教学\Lesson8_ref和out\obj\Debug\net8.0\Lesson8_ref和out.pdb
+D:\VC\gitunity\Csharp基础教学\Lesson8_ref和out\obj\Debug\net8.0\Lesson8_ref和out.genruntimeconfig.cache
+D:\VC\gitunity\Csharp基础教学\Lesson8_ref和out\obj\Debug\net8.0\ref\Lesson8_ref和out.dll

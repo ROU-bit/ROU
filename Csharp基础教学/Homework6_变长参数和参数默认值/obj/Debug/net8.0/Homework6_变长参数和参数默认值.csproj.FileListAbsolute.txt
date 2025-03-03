@@ -1,0 +1,15 @@
+D:\VC\gitunity\Csharp基础教学\Homework6_变长参数和参数默认值\bin\Debug\net8.0\Homework6_变长参数和参数默认值.exe
+D:\VC\gitunity\Csharp基础教学\Homework6_变长参数和参数默认值\bin\Debug\net8.0\Homework6_变长参数和参数默认值.deps.json
+D:\VC\gitunity\Csharp基础教学\Homework6_变长参数和参数默认值\bin\Debug\net8.0\Homework6_变长参数和参数默认值.runtimeconfig.json
+D:\VC\gitunity\Csharp基础教学\Homework6_变长参数和参数默认值\bin\Debug\net8.0\Homework6_变长参数和参数默认值.dll
+D:\VC\gitunity\Csharp基础教学\Homework6_变长参数和参数默认值\bin\Debug\net8.0\Homework6_变长参数和参数默认值.pdb
+D:\VC\gitunity\Csharp基础教学\Homework6_变长参数和参数默认值\obj\Debug\net8.0\Homework6_变长参数和参数默认值.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\Csharp基础教学\Homework6_变长参数和参数默认值\obj\Debug\net8.0\Homework6_变长参数和参数默认值.AssemblyInfoInputs.cache
+D:\VC\gitunity\Csharp基础教学\Homework6_变长参数和参数默认值\obj\Debug\net8.0\Homework6_变长参数和参数默认值.AssemblyInfo.cs
+D:\VC\gitunity\Csharp基础教学\Homework6_变长参数和参数默认值\obj\Debug\net8.0\Homework6_变长参数和参数默认值.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\Csharp基础教学\Homework6_变长参数和参数默认值\obj\Debug\net8.0\Homework6_变长参数和参数默认值.sourcelink.json
+D:\VC\gitunity\Csharp基础教学\Homework6_变长参数和参数默认值\obj\Debug\net8.0\Homework6_变长参数和参数默认值.dll
+D:\VC\gitunity\Csharp基础教学\Homework6_变长参数和参数默认值\obj\Debug\net8.0\refint\Homework6_变长参数和参数默认值.dll
+D:\VC\gitunity\Csharp基础教学\Homework6_变长参数和参数默认值\obj\Debug\net8.0\Homework6_变长参数和参数默认值.pdb
+D:\VC\gitunity\Csharp基础教学\Homework6_变长参数和参数默认值\obj\Debug\net8.0\Homework6_变长参数和参数默认值.genruntimeconfig.cache
+D:\VC\gitunity\Csharp基础教学\Homework6_变长参数和参数默认值\obj\Debug\net8.0\ref\Homework6_变长参数和参数默认值.dll

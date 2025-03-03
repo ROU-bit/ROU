@@ -1,0 +1,15 @@
+D:\VC\gitunity\Csharp基础教学\Lesson6_特殊引用类型string\bin\Debug\net8.0\Lesson6_特殊引用类型string.exe
+D:\VC\gitunity\Csharp基础教学\Lesson6_特殊引用类型string\bin\Debug\net8.0\Lesson6_特殊引用类型string.deps.json
+D:\VC\gitunity\Csharp基础教学\Lesson6_特殊引用类型string\bin\Debug\net8.0\Lesson6_特殊引用类型string.runtimeconfig.json
+D:\VC\gitunity\Csharp基础教学\Lesson6_特殊引用类型string\bin\Debug\net8.0\Lesson6_特殊引用类型string.dll
+D:\VC\gitunity\Csharp基础教学\Lesson6_特殊引用类型string\bin\Debug\net8.0\Lesson6_特殊引用类型string.pdb
+D:\VC\gitunity\Csharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\Lesson6_特殊引用类型string.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\Csharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\Lesson6_特殊引用类型string.AssemblyInfoInputs.cache
+D:\VC\gitunity\Csharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\Lesson6_特殊引用类型string.AssemblyInfo.cs
+D:\VC\gitunity\Csharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\Lesson6_特殊引用类型string.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\Csharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\Lesson6_特殊引用类型string.sourcelink.json
+D:\VC\gitunity\Csharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\Lesson6_特殊引用类型string.dll
+D:\VC\gitunity\Csharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\refint\Lesson6_特殊引用类型string.dll
+D:\VC\gitunity\Csharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\Lesson6_特殊引用类型string.pdb
+D:\VC\gitunity\Csharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\Lesson6_特殊引用类型string.genruntimeconfig.cache
+D:\VC\gitunity\Csharp基础教学\Lesson6_特殊引用类型string\obj\Debug\net8.0\ref\Lesson6_特殊引用类型string.dll

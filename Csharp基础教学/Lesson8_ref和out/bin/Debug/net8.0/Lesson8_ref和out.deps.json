@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson8_ref和out/1.0.0": {
+        "runtime": {
+          "Lesson8_ref和out.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson8_ref和out/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

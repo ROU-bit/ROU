@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Homework6_变长参数和参数默认值/1.0.0": {
+        "runtime": {
+          "Homework6_变长参数和参数默认值.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework6_变长参数和参数默认值/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
