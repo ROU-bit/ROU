@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Homework11_选择排序/1.0.0": {
+        "runtime": {
+          "Homework11_选择排序.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework11_选择排序/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

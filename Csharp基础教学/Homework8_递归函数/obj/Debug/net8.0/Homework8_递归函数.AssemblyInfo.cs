@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Homework8_递归函数")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c249f9e88d8f743f22db28ca301df851673b282")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5e47349839f18fe926424cec5786917e2a1b5a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Homework8_递归函数")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Homework8_递归函数")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

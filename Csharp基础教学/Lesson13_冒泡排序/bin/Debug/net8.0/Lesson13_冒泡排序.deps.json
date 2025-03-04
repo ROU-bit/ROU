@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson13_冒泡排序/1.0.0": {
+        "runtime": {
+          "Lesson13_冒泡排序.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson13_冒泡排序/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

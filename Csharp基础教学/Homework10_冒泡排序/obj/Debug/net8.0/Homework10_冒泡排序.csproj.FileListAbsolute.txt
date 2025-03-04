@@ -1,0 +1,15 @@
+D:\VC\gitunity\Csharp基础教学\Homework10_冒泡排序\bin\Debug\net8.0\Homework10_冒泡排序.exe
+D:\VC\gitunity\Csharp基础教学\Homework10_冒泡排序\bin\Debug\net8.0\Homework10_冒泡排序.deps.json
+D:\VC\gitunity\Csharp基础教学\Homework10_冒泡排序\bin\Debug\net8.0\Homework10_冒泡排序.runtimeconfig.json
+D:\VC\gitunity\Csharp基础教学\Homework10_冒泡排序\bin\Debug\net8.0\Homework10_冒泡排序.dll
+D:\VC\gitunity\Csharp基础教学\Homework10_冒泡排序\bin\Debug\net8.0\Homework10_冒泡排序.pdb
+D:\VC\gitunity\Csharp基础教学\Homework10_冒泡排序\obj\Debug\net8.0\Homework10_冒泡排序.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\Csharp基础教学\Homework10_冒泡排序\obj\Debug\net8.0\Homework10_冒泡排序.AssemblyInfoInputs.cache
+D:\VC\gitunity\Csharp基础教学\Homework10_冒泡排序\obj\Debug\net8.0\Homework10_冒泡排序.AssemblyInfo.cs
+D:\VC\gitunity\Csharp基础教学\Homework10_冒泡排序\obj\Debug\net8.0\Homework10_冒泡排序.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\Csharp基础教学\Homework10_冒泡排序\obj\Debug\net8.0\Homework10_冒泡排序.sourcelink.json
+D:\VC\gitunity\Csharp基础教学\Homework10_冒泡排序\obj\Debug\net8.0\Homework10_冒泡排序.dll
+D:\VC\gitunity\Csharp基础教学\Homework10_冒泡排序\obj\Debug\net8.0\refint\Homework10_冒泡排序.dll
+D:\VC\gitunity\Csharp基础教学\Homework10_冒泡排序\obj\Debug\net8.0\Homework10_冒泡排序.pdb
+D:\VC\gitunity\Csharp基础教学\Homework10_冒泡排序\obj\Debug\net8.0\Homework10_冒泡排序.genruntimeconfig.cache
+D:\VC\gitunity\Csharp基础教学\Homework10_冒泡排序\obj\Debug\net8.0\ref\Homework10_冒泡排序.dll

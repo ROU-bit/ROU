@@ -1,0 +1,15 @@
+D:\VC\gitunity\Csharp基础教学\Homework9_结构体\bin\Debug\net8.0\Homework9_结构体.exe
+D:\VC\gitunity\Csharp基础教学\Homework9_结构体\bin\Debug\net8.0\Homework9_结构体.deps.json
+D:\VC\gitunity\Csharp基础教学\Homework9_结构体\bin\Debug\net8.0\Homework9_结构体.runtimeconfig.json
+D:\VC\gitunity\Csharp基础教学\Homework9_结构体\bin\Debug\net8.0\Homework9_结构体.dll
+D:\VC\gitunity\Csharp基础教学\Homework9_结构体\bin\Debug\net8.0\Homework9_结构体.pdb
+D:\VC\gitunity\Csharp基础教学\Homework9_结构体\obj\Debug\net8.0\Homework9_结构体.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\Csharp基础教学\Homework9_结构体\obj\Debug\net8.0\Homework9_结构体.AssemblyInfoInputs.cache
+D:\VC\gitunity\Csharp基础教学\Homework9_结构体\obj\Debug\net8.0\Homework9_结构体.AssemblyInfo.cs
+D:\VC\gitunity\Csharp基础教学\Homework9_结构体\obj\Debug\net8.0\Homework9_结构体.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\Csharp基础教学\Homework9_结构体\obj\Debug\net8.0\Homework9_结构体.sourcelink.json
+D:\VC\gitunity\Csharp基础教学\Homework9_结构体\obj\Debug\net8.0\Homework9_结构体.dll
+D:\VC\gitunity\Csharp基础教学\Homework9_结构体\obj\Debug\net8.0\refint\Homework9_结构体.dll
+D:\VC\gitunity\Csharp基础教学\Homework9_结构体\obj\Debug\net8.0\Homework9_结构体.pdb
+D:\VC\gitunity\Csharp基础教学\Homework9_结构体\obj\Debug\net8.0\Homework9_结构体.genruntimeconfig.cache
+D:\VC\gitunity\Csharp基础教学\Homework9_结构体\obj\Debug\net8.0\ref\Homework9_结构体.dll
