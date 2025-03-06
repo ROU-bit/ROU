@@ -6,9 +6,11 @@ namespace Homework11_选择排序
     {
         static void UpDown(int[]arr,bool Choose)
         {
+            int index;
+            int temp;
             for (int n = 0; n < arr.Length; n++) 
             {
-                int index = 0;
+                index = 0;
                 for(int m = 1;m < arr.Length - n;m++)
                 {
                     bool boo = Choose ? arr[index] < arr[m] : arr[index] > arr[m];
@@ -19,7 +21,7 @@ namespace Homework11_选择排序
                 }
                 if(index != arr.Length - 1 - n)
                 {
-                    int temp = arr[index];
+                    temp = arr[index];
                     arr[index] = arr[arr.Length - 1 - n];
                     arr[arr.Length - 1 - n] = temp;
                 }

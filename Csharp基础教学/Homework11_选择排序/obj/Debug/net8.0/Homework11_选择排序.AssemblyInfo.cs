@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Homework11_选择排序")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5e47349839f18fe926424cec5786917e2a1b5a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d561ffa92d787d8cf8976c77fe475da2f322406")]
 [assembly: System.Reflection.AssemblyProductAttribute("Homework11_选择排序")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Homework11_选择排序")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
