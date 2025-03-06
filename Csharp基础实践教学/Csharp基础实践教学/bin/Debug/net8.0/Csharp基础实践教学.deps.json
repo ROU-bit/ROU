@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Csharp基础实践教学/1.0.0": {
+        "runtime": {
+          "Csharp基础实践教学.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csharp基础实践教学/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VC\\gitunity\\Csharp\u57FA\u7840\u5B9E\u8DF5\u6559\u5B66\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB23C7F-D0E1-4F86-AE9D-8B25C1254A48}|Csharp\u57FA\u7840\u5B9E\u8DF5\u6559\u5B66\\Csharp\u57FA\u7840\u5B9E\u8DF5\u6559\u5B66.csproj|d:\\vc\\gitunity\\csharp\u57FA\u7840\u5B9E\u8DF5\u6559\u5B66\\csharp\u57FA\u7840\u5B9E\u8DF5\u6559\u5B66\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB23C7F-D0E1-4F86-AE9D-8B25C1254A48}|Csharp\u57FA\u7840\u5B9E\u8DF5\u6559\u5B66\\Csharp\u57FA\u7840\u5B9E\u8DF5\u6559\u5B66.csproj|solutionrelative:csharp\u57FA\u7840\u5B9E\u8DF5\u6559\u5B66\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VC\\gitunity\\Csharp\u57FA\u7840\u5B9E\u8DF5\u6559\u5B66\\Csharp\u57FA\u7840\u5B9E\u8DF5\u6559\u5B66\\Program.cs",
+              "RelativeDocumentMoniker": "Csharp\u57FA\u7840\u5B9E\u8DF5\u6559\u5B66\\Program.cs",
+              "ToolTip": "D:\\VC\\gitunity\\Csharp\u57FA\u7840\u5B9E\u8DF5\u6559\u5B66\\Csharp\u57FA\u7840\u5B9E\u8DF5\u6559\u5B66\\Program.cs",
+              "RelativeToolTip": "Csharp\u57FA\u7840\u5B9E\u8DF5\u6559\u5B66\\Program.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAALAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:33:35.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
