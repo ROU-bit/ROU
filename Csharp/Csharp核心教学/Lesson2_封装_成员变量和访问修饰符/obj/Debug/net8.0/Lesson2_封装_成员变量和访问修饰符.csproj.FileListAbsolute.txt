@@ -1,0 +1,15 @@
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson2_封装_成员变量和访问修饰符\bin\Debug\net8.0\Lesson2_封装_成员变量和访问修饰符.exe
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson2_封装_成员变量和访问修饰符\bin\Debug\net8.0\Lesson2_封装_成员变量和访问修饰符.deps.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson2_封装_成员变量和访问修饰符\bin\Debug\net8.0\Lesson2_封装_成员变量和访问修饰符.runtimeconfig.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson2_封装_成员变量和访问修饰符\bin\Debug\net8.0\Lesson2_封装_成员变量和访问修饰符.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson2_封装_成员变量和访问修饰符\bin\Debug\net8.0\Lesson2_封装_成员变量和访问修饰符.pdb
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson2_封装_成员变量和访问修饰符\obj\Debug\net8.0\Lesson2_封装_成员变量和访问修饰符.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson2_封装_成员变量和访问修饰符\obj\Debug\net8.0\Lesson2_封装_成员变量和访问修饰符.AssemblyInfoInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson2_封装_成员变量和访问修饰符\obj\Debug\net8.0\Lesson2_封装_成员变量和访问修饰符.AssemblyInfo.cs
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson2_封装_成员变量和访问修饰符\obj\Debug\net8.0\Lesson2_封装_成员变量和访问修饰符.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson2_封装_成员变量和访问修饰符\obj\Debug\net8.0\Lesson2_封装_成员变量和访问修饰符.sourcelink.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson2_封装_成员变量和访问修饰符\obj\Debug\net8.0\Lesson2_封装_成员变量和访问修饰符.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson2_封装_成员变量和访问修饰符\obj\Debug\net8.0\refint\Lesson2_封装_成员变量和访问修饰符.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson2_封装_成员变量和访问修饰符\obj\Debug\net8.0\Lesson2_封装_成员变量和访问修饰符.pdb
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson2_封装_成员变量和访问修饰符\obj\Debug\net8.0\Lesson2_封装_成员变量和访问修饰符.genruntimeconfig.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson2_封装_成员变量和访问修饰符\obj\Debug\net8.0\ref\Lesson2_封装_成员变量和访问修饰符.dll

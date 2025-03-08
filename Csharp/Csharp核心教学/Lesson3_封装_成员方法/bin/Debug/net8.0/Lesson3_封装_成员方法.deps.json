@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson3_封装_成员方法/1.0.0": {
+        "runtime": {
+          "Lesson3_封装_成员方法.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson3_封装_成员方法/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

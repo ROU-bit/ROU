@@ -1,0 +1,15 @@
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson3_封装_成员方法\bin\Debug\net8.0\Lesson3_封装_成员方法.exe
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson3_封装_成员方法\bin\Debug\net8.0\Lesson3_封装_成员方法.deps.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson3_封装_成员方法\bin\Debug\net8.0\Lesson3_封装_成员方法.runtimeconfig.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson3_封装_成员方法\bin\Debug\net8.0\Lesson3_封装_成员方法.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson3_封装_成员方法\bin\Debug\net8.0\Lesson3_封装_成员方法.pdb
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson3_封装_成员方法\obj\Debug\net8.0\Lesson3_封装_成员方法.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson3_封装_成员方法\obj\Debug\net8.0\Lesson3_封装_成员方法.AssemblyInfoInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson3_封装_成员方法\obj\Debug\net8.0\Lesson3_封装_成员方法.AssemblyInfo.cs
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson3_封装_成员方法\obj\Debug\net8.0\Lesson3_封装_成员方法.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson3_封装_成员方法\obj\Debug\net8.0\Lesson3_封装_成员方法.sourcelink.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson3_封装_成员方法\obj\Debug\net8.0\Lesson3_封装_成员方法.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson3_封装_成员方法\obj\Debug\net8.0\refint\Lesson3_封装_成员方法.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson3_封装_成员方法\obj\Debug\net8.0\Lesson3_封装_成员方法.pdb
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson3_封装_成员方法\obj\Debug\net8.0\Lesson3_封装_成员方法.genruntimeconfig.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson3_封装_成员方法\obj\Debug\net8.0\ref\Lesson3_封装_成员方法.dll

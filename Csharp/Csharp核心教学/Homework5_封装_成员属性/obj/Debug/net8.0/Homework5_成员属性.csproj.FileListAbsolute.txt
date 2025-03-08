@@ -1,0 +1,15 @@
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework5_成员属性\bin\Debug\net8.0\Homework5_成员属性.exe
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework5_成员属性\bin\Debug\net8.0\Homework5_成员属性.deps.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework5_成员属性\bin\Debug\net8.0\Homework5_成员属性.runtimeconfig.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework5_成员属性\bin\Debug\net8.0\Homework5_成员属性.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework5_成员属性\bin\Debug\net8.0\Homework5_成员属性.pdb
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework5_成员属性\obj\Debug\net8.0\Homework5_成员属性.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework5_成员属性\obj\Debug\net8.0\Homework5_成员属性.AssemblyInfoInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework5_成员属性\obj\Debug\net8.0\Homework5_成员属性.AssemblyInfo.cs
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework5_成员属性\obj\Debug\net8.0\Homework5_成员属性.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework5_成员属性\obj\Debug\net8.0\Homework5_成员属性.sourcelink.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework5_成员属性\obj\Debug\net8.0\Homework5_成员属性.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework5_成员属性\obj\Debug\net8.0\refint\Homework5_成员属性.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework5_成员属性\obj\Debug\net8.0\Homework5_成员属性.pdb
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework5_成员属性\obj\Debug\net8.0\Homework5_成员属性.genruntimeconfig.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework5_成员属性\obj\Debug\net8.0\ref\Homework5_成员属性.dll
