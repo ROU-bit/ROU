@@ -1,0 +1,15 @@
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson7_封装_静态成员\bin\Debug\net8.0\Lesson7_封装_静态成员.exe
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson7_封装_静态成员\bin\Debug\net8.0\Lesson7_封装_静态成员.deps.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson7_封装_静态成员\bin\Debug\net8.0\Lesson7_封装_静态成员.runtimeconfig.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson7_封装_静态成员\bin\Debug\net8.0\Lesson7_封装_静态成员.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson7_封装_静态成员\bin\Debug\net8.0\Lesson7_封装_静态成员.pdb
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson7_封装_静态成员\obj\Debug\net8.0\Lesson7_封装_静态成员.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson7_封装_静态成员\obj\Debug\net8.0\Lesson7_封装_静态成员.AssemblyInfoInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson7_封装_静态成员\obj\Debug\net8.0\Lesson7_封装_静态成员.AssemblyInfo.cs
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson7_封装_静态成员\obj\Debug\net8.0\Lesson7_封装_静态成员.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson7_封装_静态成员\obj\Debug\net8.0\Lesson7_封装_静态成员.sourcelink.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson7_封装_静态成员\obj\Debug\net8.0\Lesson7_封装_静态成员.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson7_封装_静态成员\obj\Debug\net8.0\refint\Lesson7_封装_静态成员.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson7_封装_静态成员\obj\Debug\net8.0\Lesson7_封装_静态成员.pdb
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson7_封装_静态成员\obj\Debug\net8.0\Lesson7_封装_静态成员.genruntimeconfig.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson7_封装_静态成员\obj\Debug\net8.0\ref\Lesson7_封装_静态成员.dll

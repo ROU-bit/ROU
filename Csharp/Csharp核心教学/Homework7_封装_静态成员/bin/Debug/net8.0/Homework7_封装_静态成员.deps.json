@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Homework7_封装_静态成员/1.0.0": {
+        "runtime": {
+          "Homework7_封装_静态成员.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework7_封装_静态成员/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

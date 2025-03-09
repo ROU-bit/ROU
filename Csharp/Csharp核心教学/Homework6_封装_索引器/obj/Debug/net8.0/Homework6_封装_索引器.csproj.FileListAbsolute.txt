@@ -1,0 +1,15 @@
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework6_封装_索引器\bin\Debug\net8.0\Homework6_封装_索引器.exe
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework6_封装_索引器\bin\Debug\net8.0\Homework6_封装_索引器.deps.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework6_封装_索引器\bin\Debug\net8.0\Homework6_封装_索引器.runtimeconfig.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework6_封装_索引器\bin\Debug\net8.0\Homework6_封装_索引器.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework6_封装_索引器\bin\Debug\net8.0\Homework6_封装_索引器.pdb
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework6_封装_索引器\obj\Debug\net8.0\Homework6_封装_索引器.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework6_封装_索引器\obj\Debug\net8.0\Homework6_封装_索引器.AssemblyInfoInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework6_封装_索引器\obj\Debug\net8.0\Homework6_封装_索引器.AssemblyInfo.cs
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework6_封装_索引器\obj\Debug\net8.0\Homework6_封装_索引器.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework6_封装_索引器\obj\Debug\net8.0\Homework6_封装_索引器.sourcelink.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework6_封装_索引器\obj\Debug\net8.0\Homework6_封装_索引器.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework6_封装_索引器\obj\Debug\net8.0\refint\Homework6_封装_索引器.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework6_封装_索引器\obj\Debug\net8.0\Homework6_封装_索引器.pdb
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework6_封装_索引器\obj\Debug\net8.0\Homework6_封装_索引器.genruntimeconfig.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Homework6_封装_索引器\obj\Debug\net8.0\ref\Homework6_封装_索引器.dll

@@ -1,0 +1,15 @@
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson9_封装_拓展方法\bin\Debug\net8.0\Lesson9_封装_拓展方法.exe
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson9_封装_拓展方法\bin\Debug\net8.0\Lesson9_封装_拓展方法.deps.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson9_封装_拓展方法\bin\Debug\net8.0\Lesson9_封装_拓展方法.runtimeconfig.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson9_封装_拓展方法\bin\Debug\net8.0\Lesson9_封装_拓展方法.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson9_封装_拓展方法\bin\Debug\net8.0\Lesson9_封装_拓展方法.pdb
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson9_封装_拓展方法\obj\Debug\net8.0\Lesson9_封装_拓展方法.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson9_封装_拓展方法\obj\Debug\net8.0\Lesson9_封装_拓展方法.AssemblyInfoInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson9_封装_拓展方法\obj\Debug\net8.0\Lesson9_封装_拓展方法.AssemblyInfo.cs
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson9_封装_拓展方法\obj\Debug\net8.0\Lesson9_封装_拓展方法.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson9_封装_拓展方法\obj\Debug\net8.0\Lesson9_封装_拓展方法.sourcelink.json
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson9_封装_拓展方法\obj\Debug\net8.0\Lesson9_封装_拓展方法.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson9_封装_拓展方法\obj\Debug\net8.0\refint\Lesson9_封装_拓展方法.dll
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson9_封装_拓展方法\obj\Debug\net8.0\Lesson9_封装_拓展方法.pdb
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson9_封装_拓展方法\obj\Debug\net8.0\Lesson9_封装_拓展方法.genruntimeconfig.cache
+D:\VC\gitunity\Csharp\Csharp核心教学\Lesson9_封装_拓展方法\obj\Debug\net8.0\ref\Lesson9_封装_拓展方法.dll

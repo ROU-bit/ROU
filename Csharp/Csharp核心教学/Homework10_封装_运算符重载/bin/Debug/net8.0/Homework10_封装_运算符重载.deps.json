@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Homework10_封装_运算符重载/1.0.0": {
+        "runtime": {
+          "Homework10_封装_运算符重载.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework10_封装_运算符重载/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

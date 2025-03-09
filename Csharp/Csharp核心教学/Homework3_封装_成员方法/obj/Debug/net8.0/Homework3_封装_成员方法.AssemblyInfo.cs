@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Homework3_封装_成员方法")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc2a6cd57e0561e3f10e18ed6bd1438ec95ca718")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+437c1e0403f85cf5ff6e75bc55f926f40ffe0634")]
 [assembly: System.Reflection.AssemblyProductAttribute("Homework3_封装_成员方法")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Homework3_封装_成员方法")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

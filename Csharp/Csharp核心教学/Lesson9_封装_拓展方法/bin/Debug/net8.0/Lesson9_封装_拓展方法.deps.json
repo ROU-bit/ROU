@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lesson9_封装_拓展方法/1.0.0": {
+        "runtime": {
+          "Lesson9_封装_拓展方法.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson9_封装_拓展方法/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
