@@ -1,0 +1,15 @@
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework23_面向对象相关_string\bin\Debug\net8.0\Homework23_面向对象相关_string.exe
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework23_面向对象相关_string\bin\Debug\net8.0\Homework23_面向对象相关_string.deps.json
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework23_面向对象相关_string\bin\Debug\net8.0\Homework23_面向对象相关_string.runtimeconfig.json
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework23_面向对象相关_string\bin\Debug\net8.0\Homework23_面向对象相关_string.dll
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework23_面向对象相关_string\bin\Debug\net8.0\Homework23_面向对象相关_string.pdb
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework23_面向对象相关_string\obj\Debug\net8.0\Homework23_面向对象相关_string.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework23_面向对象相关_string\obj\Debug\net8.0\Homework23_面向对象相关_string.AssemblyInfoInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework23_面向对象相关_string\obj\Debug\net8.0\Homework23_面向对象相关_string.AssemblyInfo.cs
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework23_面向对象相关_string\obj\Debug\net8.0\Homework23_面向对象相关_string.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework23_面向对象相关_string\obj\Debug\net8.0\Homework23_面向对象相关_string.sourcelink.json
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework23_面向对象相关_string\obj\Debug\net8.0\Homework23_面向对象相关_string.dll
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework23_面向对象相关_string\obj\Debug\net8.0\refint\Homework23_面向对象相关_string.dll
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework23_面向对象相关_string\obj\Debug\net8.0\Homework23_面向对象相关_string.pdb
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework23_面向对象相关_string\obj\Debug\net8.0\Homework23_面向对象相关_string.genruntimeconfig.cache
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework23_面向对象相关_string\obj\Debug\net8.0\ref\Homework23_面向对象相关_string.dll

@@ -1,0 +1,15 @@
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework19_多态_接口\bin\Debug\net8.0\Homework19_多态_接口.exe
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework19_多态_接口\bin\Debug\net8.0\Homework19_多态_接口.deps.json
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework19_多态_接口\bin\Debug\net8.0\Homework19_多态_接口.runtimeconfig.json
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework19_多态_接口\bin\Debug\net8.0\Homework19_多态_接口.dll
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework19_多态_接口\bin\Debug\net8.0\Homework19_多态_接口.pdb
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework19_多态_接口\obj\Debug\net8.0\Homework19_多态_接口.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework19_多态_接口\obj\Debug\net8.0\Homework19_多态_接口.AssemblyInfoInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework19_多态_接口\obj\Debug\net8.0\Homework19_多态_接口.AssemblyInfo.cs
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework19_多态_接口\obj\Debug\net8.0\Homework19_多态_接口.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework19_多态_接口\obj\Debug\net8.0\Homework19_多态_接口.sourcelink.json
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework19_多态_接口\obj\Debug\net8.0\Homework19_多态_接口.dll
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework19_多态_接口\obj\Debug\net8.0\refint\Homework19_多态_接口.dll
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework19_多态_接口\obj\Debug\net8.0\Homework19_多态_接口.pdb
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework19_多态_接口\obj\Debug\net8.0\Homework19_多态_接口.genruntimeconfig.cache
+D:\VC\gitunity\Csharp\Csharp核心教学_自\Homework19_多态_接口\obj\Debug\net8.0\ref\Homework19_多态_接口.dll

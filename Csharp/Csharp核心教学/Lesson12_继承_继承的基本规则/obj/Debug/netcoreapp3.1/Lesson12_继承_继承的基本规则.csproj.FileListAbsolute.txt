@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson12_继承_继承的基本规则\bin\Debug\netcoreapp3.1\Lesson12_继承_继承的基本规则.exe
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson12_继承_继承的基本规则\bin\Debug\netcoreapp3.1\Lesson12_继承_继承的基本规则.deps.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson12_继承_继承的基本规则\bin\Debug\netcoreapp3.1\Lesson12_继承_继承的基本规则.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson12_继承_继承的基本规则\bin\Debug\netcoreapp3.1\Lesson12_继承_继承的基本规则.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson12_继承_继承的基本规则\bin\Debug\netcoreapp3.1\Lesson12_继承_继承的基本规则.dll
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson12_继承_继承的基本规则\bin\Debug\netcoreapp3.1\Lesson12_继承_继承的基本规则.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson12_继承_继承的基本规则\obj\Debug\netcoreapp3.1\Lesson12_继承_继承的基本规则.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson12_继承_继承的基本规则\obj\Debug\netcoreapp3.1\Lesson12_继承_继承的基本规则.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson12_继承_继承的基本规则\obj\Debug\netcoreapp3.1\Lesson12_继承_继承的基本规则.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson12_继承_继承的基本规则\obj\Debug\netcoreapp3.1\Lesson12_继承_继承的基本规则.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson12_继承_继承的基本规则\obj\Debug\netcoreapp3.1\Lesson12_继承_继承的基本规则.dll
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson12_继承_继承的基本规则\obj\Debug\netcoreapp3.1\Lesson12_继承_继承的基本规则.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson12_继承_继承的基本规则\obj\Debug\netcoreapp3.1\Lesson12_继承_继承的基本规则.genruntimeconfig.cache

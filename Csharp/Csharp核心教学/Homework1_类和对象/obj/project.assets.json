@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VC\\gitunity\\Csharp\\Csharp核心教学\\Homework1_类和对象\\Homework1_类和对象.csproj",
-      "projectName": "Homework1_类和对象",
-      "projectPath": "D:\\VC\\gitunity\\Csharp\\Csharp核心教学\\Homework1_类和对象\\Homework1_类和对象.csproj",
+      "projectUniqueName": "D:\\VC\\gitunity\\Csharp\\Csharp核心教学\\Homework1_类和对象\\Homework1_封装_类和对象.csproj",
+      "projectName": "Homework1_封装_类和对象",
+      "projectPath": "D:\\VC\\gitunity\\Csharp\\Csharp核心教学\\Homework1_类和对象\\Homework1_封装_类和对象.csproj",
       "packagesPath": "C:\\Users\\86183\\.nuget\\packages\\",
       "outputPath": "D:\\VC\\gitunity\\Csharp\\Csharp核心教学\\Homework1_类和对象\\obj\\",
       "projectStyle": "PackageReference",
@@ -51,7 +51,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

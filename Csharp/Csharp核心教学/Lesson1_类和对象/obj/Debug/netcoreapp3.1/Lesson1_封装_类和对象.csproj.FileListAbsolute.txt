@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson1_类和对象\bin\Debug\netcoreapp3.1\Lesson1_封装_类和对象.exe
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson1_类和对象\bin\Debug\netcoreapp3.1\Lesson1_封装_类和对象.deps.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson1_类和对象\bin\Debug\netcoreapp3.1\Lesson1_封装_类和对象.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson1_类和对象\bin\Debug\netcoreapp3.1\Lesson1_封装_类和对象.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson1_类和对象\bin\Debug\netcoreapp3.1\Lesson1_封装_类和对象.dll
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson1_类和对象\bin\Debug\netcoreapp3.1\Lesson1_封装_类和对象.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson1_类和对象\obj\Debug\netcoreapp3.1\Lesson1_封装_类和对象.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson1_类和对象\obj\Debug\netcoreapp3.1\Lesson1_封装_类和对象.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson1_类和对象\obj\Debug\netcoreapp3.1\Lesson1_封装_类和对象.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson1_类和对象\obj\Debug\netcoreapp3.1\Lesson1_封装_类和对象.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson1_类和对象\obj\Debug\netcoreapp3.1\Lesson1_封装_类和对象.dll
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson1_类和对象\obj\Debug\netcoreapp3.1\Lesson1_封装_类和对象.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson1_类和对象\obj\Debug\netcoreapp3.1\Lesson1_封装_类和对象.genruntimeconfig.cache

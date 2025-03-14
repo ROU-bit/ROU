@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Homework18_多态_抽象类和抽象方法/1.0.0": {
+        "runtime": {
+          "Homework18_多态_抽象类和抽象方法.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework18_多态_抽象类和抽象方法/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

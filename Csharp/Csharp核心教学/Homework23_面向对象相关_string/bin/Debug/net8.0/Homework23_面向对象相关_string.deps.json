@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Homework23_面向对象相关_string/1.0.0": {
+        "runtime": {
+          "Homework23_面向对象相关_string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework23_面向对象相关_string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

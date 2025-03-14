@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Homework13_继承_里氏替换原则/1.0.0": {
+        "runtime": {
+          "Homework13_继承_里氏替换原则.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework13_继承_里氏替换原则/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

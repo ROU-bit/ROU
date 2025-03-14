@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Homework22_面向对象相关_万物之父中的方法/1.0.0": {
+        "runtime": {
+          "Homework22_面向对象相关_万物之父中的方法.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework22_面向对象相关_万物之父中的方法/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

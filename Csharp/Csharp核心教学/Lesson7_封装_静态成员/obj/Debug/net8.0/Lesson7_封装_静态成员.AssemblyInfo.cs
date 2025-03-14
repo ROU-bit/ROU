@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson7_封装_静态成员")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+437c1e0403f85cf5ff6e75bc55f926f40ffe0634")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d54bcf1e6db28284f50e35a581a88a71973523f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson7_封装_静态成员")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson7_封装_静态成员")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

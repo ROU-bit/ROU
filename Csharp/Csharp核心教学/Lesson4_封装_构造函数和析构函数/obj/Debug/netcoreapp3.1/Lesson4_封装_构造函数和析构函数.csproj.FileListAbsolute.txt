@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson4_封装_构造函数和析构函数\bin\Debug\netcoreapp3.1\Lesson4_封装_构造函数和析构函数.exe
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson4_封装_构造函数和析构函数\bin\Debug\netcoreapp3.1\Lesson4_封装_构造函数和析构函数.deps.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson4_封装_构造函数和析构函数\bin\Debug\netcoreapp3.1\Lesson4_封装_构造函数和析构函数.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson4_封装_构造函数和析构函数\bin\Debug\netcoreapp3.1\Lesson4_封装_构造函数和析构函数.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson4_封装_构造函数和析构函数\bin\Debug\netcoreapp3.1\Lesson4_封装_构造函数和析构函数.dll
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson4_封装_构造函数和析构函数\bin\Debug\netcoreapp3.1\Lesson4_封装_构造函数和析构函数.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson4_封装_构造函数和析构函数\obj\Debug\netcoreapp3.1\Lesson4_封装_构造函数和析构函数.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson4_封装_构造函数和析构函数\obj\Debug\netcoreapp3.1\Lesson4_封装_构造函数和析构函数.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson4_封装_构造函数和析构函数\obj\Debug\netcoreapp3.1\Lesson4_封装_构造函数和析构函数.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson4_封装_构造函数和析构函数\obj\Debug\netcoreapp3.1\Lesson4_封装_构造函数和析构函数.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson4_封装_构造函数和析构函数\obj\Debug\netcoreapp3.1\Lesson4_封装_构造函数和析构函数.dll
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson4_封装_构造函数和析构函数\obj\Debug\netcoreapp3.1\Lesson4_封装_构造函数和析构函数.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson4_封装_构造函数和析构函数\obj\Debug\netcoreapp3.1\Lesson4_封装_构造函数和析构函数.genruntimeconfig.cache

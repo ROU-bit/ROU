@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesspm10_练习题\bin\Debug\netcoreapp3.1\Lesson10_练习题.exe
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesspm10_练习题\bin\Debug\netcoreapp3.1\Lesson10_练习题.deps.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesspm10_练习题\bin\Debug\netcoreapp3.1\Lesson10_练习题.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesspm10_练习题\bin\Debug\netcoreapp3.1\Lesson10_练习题.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesspm10_练习题\bin\Debug\netcoreapp3.1\Lesson10_练习题.dll
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesspm10_练习题\bin\Debug\netcoreapp3.1\Lesson10_练习题.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesspm10_练习题\obj\Debug\netcoreapp3.1\Lesson10_练习题.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesspm10_练习题\obj\Debug\netcoreapp3.1\Lesson10_练习题.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesspm10_练习题\obj\Debug\netcoreapp3.1\Lesson10_练习题.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesspm10_练习题\obj\Debug\netcoreapp3.1\Lesson10_练习题.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesspm10_练习题\obj\Debug\netcoreapp3.1\Lesson10_练习题.dll
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesspm10_练习题\obj\Debug\netcoreapp3.1\Lesson10_练习题.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesspm10_练习题\obj\Debug\netcoreapp3.1\Lesson10_练习题.genruntimeconfig.cache

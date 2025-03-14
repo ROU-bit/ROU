@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Homework19_多态_接口/1.0.0": {
+        "runtime": {
+          "Homework19_多态_接口.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework19_多态_接口/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

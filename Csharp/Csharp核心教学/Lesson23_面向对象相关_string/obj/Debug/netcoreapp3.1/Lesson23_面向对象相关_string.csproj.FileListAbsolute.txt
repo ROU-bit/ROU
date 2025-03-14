@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson23_面向对象相关_string\bin\Debug\netcoreapp3.1\Lesson23_面向对象相关_string.exe
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson23_面向对象相关_string\bin\Debug\netcoreapp3.1\Lesson23_面向对象相关_string.deps.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson23_面向对象相关_string\bin\Debug\netcoreapp3.1\Lesson23_面向对象相关_string.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson23_面向对象相关_string\bin\Debug\netcoreapp3.1\Lesson23_面向对象相关_string.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson23_面向对象相关_string\bin\Debug\netcoreapp3.1\Lesson23_面向对象相关_string.dll
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson23_面向对象相关_string\bin\Debug\netcoreapp3.1\Lesson23_面向对象相关_string.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson23_面向对象相关_string\obj\Debug\netcoreapp3.1\Lesson23_面向对象相关_string.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson23_面向对象相关_string\obj\Debug\netcoreapp3.1\Lesson23_面向对象相关_string.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson23_面向对象相关_string\obj\Debug\netcoreapp3.1\Lesson23_面向对象相关_string.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson23_面向对象相关_string\obj\Debug\netcoreapp3.1\Lesson23_面向对象相关_string.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson23_面向对象相关_string\obj\Debug\netcoreapp3.1\Lesson23_面向对象相关_string.dll
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson23_面向对象相关_string\obj\Debug\netcoreapp3.1\Lesson23_面向对象相关_string.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson23_面向对象相关_string\obj\Debug\netcoreapp3.1\Lesson23_面向对象相关_string.genruntimeconfig.cache

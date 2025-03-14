@@ -1,0 +1,13 @@
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson3_封装_成员方法\bin\Debug\netcoreapp3.1\Lesson3_封装_成员方法.exe
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson3_封装_成员方法\bin\Debug\netcoreapp3.1\Lesson3_封装_成员方法.deps.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson3_封装_成员方法\bin\Debug\netcoreapp3.1\Lesson3_封装_成员方法.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson3_封装_成员方法\bin\Debug\netcoreapp3.1\Lesson3_封装_成员方法.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson3_封装_成员方法\bin\Debug\netcoreapp3.1\Lesson3_封装_成员方法.dll
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson3_封装_成员方法\bin\Debug\netcoreapp3.1\Lesson3_封装_成员方法.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson3_封装_成员方法\obj\Debug\netcoreapp3.1\Lesson3_封装_成员方法.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson3_封装_成员方法\obj\Debug\netcoreapp3.1\Lesson3_封装_成员方法.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson3_封装_成员方法\obj\Debug\netcoreapp3.1\Lesson3_封装_成员方法.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson3_封装_成员方法\obj\Debug\netcoreapp3.1\Lesson3_封装_成员方法.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson3_封装_成员方法\obj\Debug\netcoreapp3.1\Lesson3_封装_成员方法.dll
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson3_封装_成员方法\obj\Debug\netcoreapp3.1\Lesson3_封装_成员方法.pdb
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson3_封装_成员方法\obj\Debug\netcoreapp3.1\Lesson3_封装_成员方法.genruntimeconfig.cache

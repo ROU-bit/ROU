@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Homework4_封装_构造函数和析构函数")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+437c1e0403f85cf5ff6e75bc55f926f40ffe0634")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d54bcf1e6db28284f50e35a581a88a71973523f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Homework4_封装_构造函数和析构函数")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Homework4_封装_构造函数和析构函数")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

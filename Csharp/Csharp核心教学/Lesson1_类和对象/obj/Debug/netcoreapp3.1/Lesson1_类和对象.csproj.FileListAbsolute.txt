@@ -1,0 +1,4 @@
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson1_类和对象\obj\Debug\netcoreapp3.1\Lesson1_类和对象.csprojAssemblyReference.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson1_类和对象\obj\Debug\netcoreapp3.1\Lesson1_类和对象.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson1_类和对象\obj\Debug\netcoreapp3.1\Lesson1_类和对象.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\CSharp核心教学\Lesson1_类和对象\obj\Debug\netcoreapp3.1\Lesson1_类和对象.csproj.CoreCompileInputs.cache
