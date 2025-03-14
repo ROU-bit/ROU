@@ -1,0 +1,15 @@
+D:\VC\gitunity\Csharp\Csharp核心实践教学\贪食蛇\bin\Debug\net8.0\贪食蛇.exe
+D:\VC\gitunity\Csharp\Csharp核心实践教学\贪食蛇\bin\Debug\net8.0\贪食蛇.deps.json
+D:\VC\gitunity\Csharp\Csharp核心实践教学\贪食蛇\bin\Debug\net8.0\贪食蛇.runtimeconfig.json
+D:\VC\gitunity\Csharp\Csharp核心实践教学\贪食蛇\bin\Debug\net8.0\贪食蛇.dll
+D:\VC\gitunity\Csharp\Csharp核心实践教学\贪食蛇\bin\Debug\net8.0\贪食蛇.pdb
+D:\VC\gitunity\Csharp\Csharp核心实践教学\贪食蛇\obj\Debug\net8.0\贪食蛇.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\gitunity\Csharp\Csharp核心实践教学\贪食蛇\obj\Debug\net8.0\贪食蛇.AssemblyInfoInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心实践教学\贪食蛇\obj\Debug\net8.0\贪食蛇.AssemblyInfo.cs
+D:\VC\gitunity\Csharp\Csharp核心实践教学\贪食蛇\obj\Debug\net8.0\贪食蛇.csproj.CoreCompileInputs.cache
+D:\VC\gitunity\Csharp\Csharp核心实践教学\贪食蛇\obj\Debug\net8.0\贪食蛇.sourcelink.json
+D:\VC\gitunity\Csharp\Csharp核心实践教学\贪食蛇\obj\Debug\net8.0\贪食蛇.dll
+D:\VC\gitunity\Csharp\Csharp核心实践教学\贪食蛇\obj\Debug\net8.0\refint\贪食蛇.dll
+D:\VC\gitunity\Csharp\Csharp核心实践教学\贪食蛇\obj\Debug\net8.0\贪食蛇.pdb
+D:\VC\gitunity\Csharp\Csharp核心实践教学\贪食蛇\obj\Debug\net8.0\贪食蛇.genruntimeconfig.cache
+D:\VC\gitunity\Csharp\Csharp核心实践教学\贪食蛇\obj\Debug\net8.0\ref\贪食蛇.dll
